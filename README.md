@@ -274,3 +274,8 @@ To run it, please get the basic crud transactional repository first, link below:
 ``` 
 https://github.com/candinursadi/basic-transactional-crud
 ```
+
+Add the following words in .env
+```
+TRANSACTION_URL=[url transactional (ex. http://localhost:8001)]
+```
